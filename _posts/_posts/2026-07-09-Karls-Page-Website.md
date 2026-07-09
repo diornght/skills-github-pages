@@ -3,7 +3,7 @@ title: "Karls Page Website"
 date: 2026-07-09
 ---
 
-# My First Blog Post
+# My First Website Post
 
 Welcome to my first GitHub Pages Website!
 
